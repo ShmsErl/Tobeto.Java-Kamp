@@ -29,4 +29,8 @@ public class OrderDetail {
     public void setOrderShipss(int orderShipss) {
         this.orderShipss = orderShipss;
     }
+
+    public void info(){
+        System.out.println("asdasd");
+    }
 }
